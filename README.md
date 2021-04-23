@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @rajsgarage
 - 👀 I’m a python enthusiast
-- 🌱 I’m currently working a website using Django + Vue
-- 💞️ I’m looking to collaborate on any coding project, if you are a blogger, send me your posts!
+- 🌱 I’m currently working on a website using Django + Vue
+- 💞️ I’m looking to collaborate on any coding project. If you are a blogger, send me your posts!
 - 📫 How to reach me: https://www.linkedin.com/in/raj-naik/ 
 
 <!---
