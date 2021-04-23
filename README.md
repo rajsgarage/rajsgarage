@@ -1,4 +1,4 @@
-- 👋 #Hi, I’m @rajsgarage
+- 👋 Hi, I’m @rajsgarage
 - 👀 I’m a python enthusiast
 - 🌱 I’m currently working a website using Django + Vue
 - 💞️ I’m looking to collaborate on any coding project, if you are a blogger, send me your posts!
